@@ -1,7 +1,7 @@
 # hello-world
 Ideas, resources, shares
 
-Hey guys and gals!
+Hey gals and guys!
 
 How's it going?
 
